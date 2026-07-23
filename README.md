@@ -31,3 +31,21 @@ Contract Address:
 
 Network:
 Sepolia Testnet
+
+
+
+## 🚀 Roadmap
+
+- [x] Wallet Connection
+- [x] Smart Contract Deployment
+- [x] Sepolia Integration
+- [ ] Donation Dashboard
+- [ ] Charity Dashboard
+- [ ] Transaction History
+- [ ] AI Recommendation
+- [ ] IPFS Storage
+- [ ] NFT Donation Certificate
+- [ ] Mainnet Deployment
+
+
+
