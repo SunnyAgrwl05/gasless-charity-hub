@@ -1,3 +1,10 @@
+![License](https://img.shields.io/badge/License-MIT-green)
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Blockchain](https://img.shields.io/badge/Web3-Sepolia-blueviolet)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blueviolet)
+
 # Gasless Charity Hub
 
 A decentralized charity donation platform built using:
